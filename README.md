@@ -7,19 +7,21 @@ A passionate Software engineer that loves to learn a lot about software developm
 ## Certifications
 
 <div style="display: flex;">
-
+<span>
 <a href="https://www.credly.com/badges/db3aaaad-ee3c-494e-aff6-7dc5549cd089/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Solutions Architect – Associate" width="130" height="130" src="./certification_badges/aws-certified-solutions-architect-associate.png" />
 </a
-
+</span>
+<span>
 <a href="https://www.credly.com/badges/40419c35-0297-483e-a124-273843ff29dc/public_url" target="_blank" rel="noopener noreferrer">
-    <img label="AWS Certified Solutions Architect – Associate" width="130" height="130" src="./certification_badges/aws-certified-developer-associate.png" />
+    <img label="AWS Certified Developer – Associate" width="130" height="130" src="./certification_badges/aws-certified-developer-associate.png" />
 </a>
-
+</span>
+<span>
 <a href="https://www.credly.com/badges/fcc176b1-0850-449a-b90d-cf01b3a5686b/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Cloud Practitioner" width="130" height="130" src="./certification_badges/aws-certified-cloud-practitioner.png" />
 </a>
-
+</span>
 </div>
 
 <!--- <h3 align="left">Connect with me:</h3>
