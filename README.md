@@ -8,11 +8,11 @@ I'am Juan David, a Software engineer that loves to learn a lot about software de
 <div style="display: flex;">
 
 <a href="https://www.credly.com/badges/db3aaaad-ee3c-494e-aff6-7dc5549cd089/public_url" target="_blank" rel="noopener noreferrer">
-    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/solutions_architect_associate.png" />
+    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/aws-certified-solutions-architect-associate.png" />
 </a
 
 <a href="https://www.credly.com/badges/db3aaaad-ee3c-494e-aff6-7dc5549cd089/public_url" target="_blank" rel="noopener noreferrer">
-    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/developer_associate.png" />
+    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/aws-certified-developer-associate.png" />
 </a>
 
 </div>
