@@ -7,9 +7,12 @@ I'am Juan David, a Software engineer that loves to learn a lot about software de
 
 <div style="display: flex;">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="40419c35-0297-483e-a124-273843ff29dc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
+<a href="https://www.credly.com/badges/db3aaaad-ee3c-494e-aff6-7dc5549cd089/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/solutions_architect_associate.png" />
+</a
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="db3aaaad-ee3c-494e-aff6-7dc5549cd089" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/db3aaaad-ee3c-494e-aff6-7dc5549cd089/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="AWS Certified Solutions Architect – Associate" width="150" height="150" src="./certification_badges/developer_associate.png" />
+</a>
 
 </div>
