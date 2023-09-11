@@ -2,6 +2,8 @@
 
 A passionate Software engineer that loves to learn a lot about software development everydays. I am currently working as full stack developer where I can apply all this knowledge to help people with solutions. I also like to spend time traveling, to meet new cultures and new people to enrich myself.
 
+- 🌱 I’m currently learning **OAuth2 and Rust**
+
 ## Certifications
 
 <div style="display: flex;">
