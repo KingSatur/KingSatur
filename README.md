@@ -2,7 +2,7 @@
 
 A passionate Software engineer that loves to learn a lot about software development everydays. I am currently working as full stack developer where I can apply all this knowledge to help people with solutions. I also like to spend time traveling, to meet new cultures and new people to enrich myself.
 
-- 🌱 I’m currently learning **OAuth2 and Rust**
+- 🌱 I’m currently studying for new Azure associate certification
 
 ## Certifications
 
@@ -23,6 +23,12 @@ A passionate Software engineer that loves to learn a lot about software developm
 <span>
 <a href="https://www.credly.com/badges/fcc176b1-0850-449a-b90d-cf01b3a5686b/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified Cloud Practitioner" width="130" height="130" src="./certification_badges/aws-certified-cloud-practitioner.png" />
+</a>
+</span>
+
+<span>
+<a href="https://www.credly.com/badges/fcc176b1-0850-449a-b90d-cf01b3a5686b/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="Microsoft Certified: Azure Fundamentals" width="130" height="130" src="./certification_badges/az-900-certification.png" />
 </a>
 </span>
 
