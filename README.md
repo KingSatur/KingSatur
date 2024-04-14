@@ -83,6 +83,14 @@ A passionate Software engineer that loves to learn a lot about software developm
             height="40"
           />
         </a>
+        <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
+            alt="java"
+            width="40"
+            height="40"
+          />
+        </a>
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
