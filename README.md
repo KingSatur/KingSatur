@@ -39,8 +39,7 @@ A passionate Software engineer that loves to learn a lot about software developm
 <a href="https://medium.com/@123312123132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@123312123132" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/123312232312312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="123312232312312" height="30" width="40" /></a>
 </p> -->
-
-      <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
       <p align="left">
         {" "}
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -87,13 +86,13 @@ A passionate Software engineer that loves to learn a lot about software developm
           />{" "}
         </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          {" "}
+
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
             alt="java"
             width="40"
             height="40"
-          />{" "}
+          />
         </a>{" "}
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
