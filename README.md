@@ -27,7 +27,7 @@ A passionate Software engineer that loves to learn a lot about software developm
 </span>
 
 <span>
-<a href="https://www.credly.com/badges/fcc176b1-0850-449a-b90d-cf01b3a5686b/public_url" target="_blank" rel="noopener noreferrer">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DavidCampillo-4094/F013CBFFB5FC6AFC?sharingId=896389E45B143B12" target="_blank" rel="noopener noreferrer">
     <img label="Microsoft Certified: Azure Fundamentals" width="130" height="130" src="./certification_badges/az-900-certification.png" />
 </a>
 </span>
