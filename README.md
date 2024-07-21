@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'am Juan David</h1>
+<h1 align="center">Hi 👋, I'am David</h1>
 
 A passionate Software engineer that loves to learn a lot about software development everydays. I am currently working as full stack developer where I can apply all this knowledge to help people with solutions. I also like traveling, meeting new cultures, new places, and new people.
 
