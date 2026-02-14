@@ -10,6 +10,12 @@ A passionate Software engineer that loves to learn a lot about software developm
 
 <span>
 <a href="https://www.credly.com/badges/611529fe-06ca-4d99-9153-9de1f5ed2923/public_url" target="_blank" rel="noopener noreferrer">
+    <img label="AWS Certified CloudOps Engineer – Associate" width="130" height="130" src="./certification_badges/aws-certified-solutions-architect-professional.png" />
+</a
+</span>
+
+<span>
+<a href="https://www.credly.com/badges/611529fe-06ca-4d99-9153-9de1f5ed2923/public_url" target="_blank" rel="noopener noreferrer">
     <img label="AWS Certified CloudOps Engineer – Associate" width="130" height="130" src="./certification_badges/aws-certified-cloudops-engineer-associate.png" />
 </a
 </span>
