@@ -10,7 +10,7 @@ A passionate Software engineer that loves to learn a lot about software developm
 
 <span>
 <a href="https://www.credly.com/badges/1691f35d-e4e1-49dc-9511-ff3dd1aaaf4a/public_url" target="_blank" rel="noopener noreferrer">
-    <img label="AWS Certified DevOps Engineer – Professional" width="130" height="130" src="./certification_badges/aws-certified-solutions-architect-professional.png" />
+    <img label="AWS Certified DevOps Engineer – Professional" width="130" height="130" src="./certification_badges/aws-certified-devops-engineer-professional.png" />
 </a
 </span>
 
